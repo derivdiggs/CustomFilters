@@ -19,7 +19,6 @@ package com.customfilters
 					trace("RenderFilter()");
 					
 					_docStage = this.stage;
-					trace("DOC STAGE: " + _docStage.stage.height);
 					super();
 					initAll();
 				
@@ -28,7 +27,7 @@ package com.customfilters
 			private function initAll()
 				{
 					_ViewController = new ViewController();
-					_ViewController.initStage(_docStage);
+					_ViewController.initStage(_docStage); // pass a reference of the stage to the ViewController
 					addChild(_ViewController);
 					
 				}
