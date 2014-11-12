@@ -1,0 +1,47 @@
+8
+
+dir
+100
+https://diggs@ccgmetamedia.svn.beanstalkapp.com/q8609/prototype/source/com/baseclasses
+https://diggs@ccgmetamedia.svn.beanstalkapp.com/q8609
+
+
+
+2009-09-16T13:48:54.991802Z
+1
+diggs
+
+
+svn:special svn:externals svn:needs-lock
+
+dataLoader
+dir
+
+events
+dir
+
+components
+dir
+
+GenericSprite.as
+file
+
+
+
+
+2009-07-22T15:14:25.000000Z
+ccec11daa86f942603adb7e3dcbddc61
+2009-09-16T13:48:54.991802Z
+1
+diggs
+has-props
+
+loaders
+dir
+
+preloader
+dir
+
+datastorage
+dir
+
